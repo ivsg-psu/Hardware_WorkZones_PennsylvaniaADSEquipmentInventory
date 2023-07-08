@@ -61,14 +61,14 @@ Search for this, and you will find!
 
 The following are the top level directories within the repository:
 <ul>
- <li>/Documents folder: Descriptions of the functionality and usage of the various MATLAB functions and scripts in the repository.</li>
- <li>/Images folder: The majority of the code for the point and patch association functionalities are implemented in this directory. All functions as well as test scripts are provided.</li>
+ <li>/Documents folder: </li>
+ <li>/Images folder: </li>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
 ***
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Usage
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
@@ -76,6 +76,66 @@ The following are the top level directories within the repository:
 ***
 
 ## Inventory
+
+### **1) White**
+A) "Speed Limit 45" signs - Quantity: 3
+
+
+B) "Speed Limit 35" signs" - Quantity: 5
+
+C) "Speed Limit 30 signs" - Quantity: 2
+
+D) "Speed Limit 25 signs" - Quantity: 2
+
+E) "Stay in lane sign" - Quantity: 1
+
+F) Pennsylvania Route "45" sign - Quantity: 10 
+
+G) Right Arrow signs - Quantity: 4
+
+H) Up Arrow signs - Quantity: 3
+
+I) Right Turn sign - Quantity: 1
+
+J) Left Turn sign - Quantity: 2
+
+k) Left Corner ArroW "STOP HERE ON RED" sign - Quantity: 1
+
+L) ROAD CLOSED sign - Quantity: 2
+
+M) ROAD CLOSED /TO THRU /TRAFFIC sign - Quantity: 1
+
+N) NORTH sign - Quantitiy: 10
+
+O) SOUTH - Quantitiy: 10
+
+P) EAST - Quantitiy: 10
+
+Q) WEST - Quantitiy: 10
+
+
+### **2) Yellow**
+
+
+
+
+### **3) Orange**
+
+
+
+
+### **4) Red**
+
+
+
+
+
+### **5) Green** 
+
+
+
+
+### **6) Cones/Barrels/Vertical Panels**
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
