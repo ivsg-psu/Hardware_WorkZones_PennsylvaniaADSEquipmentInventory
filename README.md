@@ -428,7 +428,7 @@ F) Pennsylvania Route "45" sign - Quantity: 10
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
-G) Right Arrow signs - Quantity: 3
+G) Right Arrow signs - Quantity: 4
 
 **10025_RightArrow_D22**
 <pre align="center">
@@ -477,7 +477,7 @@ G) Right Arrow signs - Quantity: 3
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
-H) Up Arrow signs - Quantity: 2
+H) Up Arrow signs - Quantity: 3
 
 **10029_UpArrow_A**
 <pre align="center">
