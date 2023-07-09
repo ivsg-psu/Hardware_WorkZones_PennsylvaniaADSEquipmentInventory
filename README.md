@@ -80,23 +80,6 @@ The following are the top level directories within the repository:
 ### **1) White**
 A) "Speed Limit 45" signs - Quantity: 3
 
-**10006_-SPEED-LIMIT-35-_IIA21**
-<pre align="center">
-  <img src="./Images/IMG_3928.png" alt="10006_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
-</pre>
-
-**10006_-SPEED-LIMIT-35-_IIA21**
-<pre align="center">
-  <img src="./Images/IMG_3928.png" alt="10006_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
-</pre>
-
-**10006_-SPEED-LIMIT-35-_IIA21**
-<pre align="center">
-  <img src="./Images/IMG_3928.png" alt="10006_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
-</pre>
 
 
 B) "Speed Limit 35" signs" - Quantity: 5
