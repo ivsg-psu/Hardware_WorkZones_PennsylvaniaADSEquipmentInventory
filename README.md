@@ -80,6 +80,53 @@ The following are the top level directories within the repository:
 ### **1) White**
 A) "Speed Limit 45" signs - Quantity: 3
 
+**10001_-SPEED-LIMIT-45-_IIA21**
+<pre align="center">
+  <img src="./Images/IMG_4172.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+**10002_-SPEED-LIMIT-45-_IIA21**
+<pre align="center">
+  <img src="./Images/IMG_4174.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+**10003_-SPEED-LIMIT-45-_IIA21**
+<pre align="center">
+  <img src="./Images/IMG_4173.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
 
 
 B) "Speed Limit 35" signs" - Quantity: 5
@@ -275,9 +322,29 @@ F) Pennsylvania Route "45" sign - Quantity: 10
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
 **10017_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3938.png" alt="10017_PennsylvaniaRoute_-45-_21BII">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
@@ -287,9 +354,29 @@ F) Pennsylvania Route "45" sign - Quantity: 10
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
 **10020_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3946.png" alt="10020_PennsylvaniaRoute_-45-_21BII">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
@@ -299,9 +386,29 @@ F) Pennsylvania Route "45" sign - Quantity: 10
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
 **10022_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3941.png" alt="10022_PennsylvaniaRoute_-45-_21BII">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
@@ -311,6 +418,15 @@ F) Pennsylvania Route "45" sign - Quantity: 10
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
+<pre align="center">
+  <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
 
 G) Right Arrow signs - Quantity: 3
 
