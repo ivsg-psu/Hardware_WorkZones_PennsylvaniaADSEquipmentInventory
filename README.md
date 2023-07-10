@@ -23,7 +23,7 @@ Search for this, and you will find!
 </pre>
 
   <p align="center">
-    The purpose of this repo is 
+    The purpose of this repo is to onventory the Pennsylvania ADS equipment.
   </p>
 </p>
 
@@ -37,7 +37,6 @@ Search for this, and you will find!
       <a href="#about-the-project">About the Project</a>
     </li>
     <li><a href="#directories">Directories' Structure</a>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#inventory">Equipment Inventory</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -61,15 +60,8 @@ Search for this, and you will find!
 
 The following are the top level directories within the repository:
 <ul>
- <li>/Documents folder: </li>
- <li>/Images folder: </li>
-
-<a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
-
-***
-
-<!-- USAGE -->
-## Usage
+ <li>/Documents folder: Explains the coding method for equipment. </li>
+ <li>/Images folder: COntains images for all equipment. </li>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
