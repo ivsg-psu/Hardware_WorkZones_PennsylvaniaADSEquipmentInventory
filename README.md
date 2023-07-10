@@ -1313,227 +1313,226 @@ Q) WEST sign - Quantitiy: 10
 
 ### **2) Yellow**
 
-A) CENTER LANE CLOSED AHEAD - Quantity: 1
+A) CENTER LANE CLOSED AHEAD sign - Quantity: 1
 
 **20001_-CENTER+LANE-CLOSED-AHEAD-_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4059.png">
-  <figcaption>Fig.231 - .</figcaption>
+  <figcaption>Fig.231 - CENTER LANE CLOSED AHEAD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4058.png">
-  <figcaption>Fig.232 - .</figcaption>
+  <figcaption>Fig.232 - CENTER LANE CLOSED AHEAD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4057.png">
-  <figcaption>Fig.233 - .</figcaption>
+  <figcaption>Fig.233 - CENTER LANE CLOSED AHEAD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4056.png">
-  <figcaption>Fig.235 - .</figcaption>
+  <figcaption>Fig.235 - CENTER LANE CLOSED AHEAD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4055.png">
-  <figcaption>Fig.236 - .</figcaption>
+  <figcaption>Fig.236 - CENTER LANE CLOSED AHEAD sign.</figcaption>
 </pre>
 
-B) Doble Lane Right Swerve - Quantity: 2
+B) Doble Lane Right Swerve sign - Quantity: 2
 
 **20002_DoubleLaneRightSwerve_22DIII**
 
 <pre align="center">
   <img src="./Images/IMG_4072.png">
-  <figcaption>Fig.237 - .</figcaption>
+  <figcaption>Fig.237 - Doble Lane Right Swerve sign.</figcaption>
 </pre>
 
 **20003_DoubleLaneRightSwerve_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4060.png">
-  <figcaption>Fig.238 - .</figcaption>
+  <figcaption>Fig.238 - Doble Lane Right Swerve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4050.png">
-  <figcaption>Fig.239 - .</figcaption>
+  <figcaption>Fig.239 - Doble Lane Right Swerve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4049.png">
-  <figcaption>Fig.240 - .</figcaption>
+  <figcaption>Fig.240 - Doble Lane Right Swerve sign.</figcaption>
 </pre>
 
-C) Double Lane Left Swerve - Quantity: 1
+C) Double Lane Left Swerve sign - Quantity: 1
 **20004_DoubleLaneLeftSwerve_22DIII**
 
 <pre align="center">
   <img src="./Images/IMG_4076.png">
-  <figcaption>Fig.241 - .</figcaption>
+  <figcaption>Fig.241 -  Double Lane Left Swerve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4075.png">
-  <figcaption>Fig.242 - .</figcaption>
+  <figcaption>Fig.242 -  Double Lane Left Swerve sign.</figcaption>
 </pre>
 
 
 <pre align="center">
   <img src="./Images/IMG_4074.png">
-  <figcaption>Fig.243 - .</figcaption>
+  <figcaption>Fig.243 -  Double Lane Left Swerve sign.</figcaption>
 </pre>
 
 
 <pre align="center">
   <img src="./Images/IMG_4073.png">
-  <figcaption>Fig.244 - .</figcaption>
+  <figcaption>Fig.244 -  Double Lane Left Swerve sign.</figcaption>
 </pre>
 
 
-D) Merging Traffic From Right Ahead - Quantity: 1
+D) Merging Traffic From Right Ahead sign - Quantity: 1
 **20005_MergingTrafficFromRightAhead_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4066.png">
-  <figcaption>Fig.245 - .</figcaption>
+  <figcaption>Fig.245 - Merging Traffic From Right Ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4065.png">
-  <figcaption>Fig.246 - .</figcaption>
+  <figcaption>Fig.246 - Merging Traffic From Right Ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4062.png">
-  <figcaption>Fig.247 - .</figcaption>
+  <figcaption>Fig.247 - Merging Traffic From Right Ahead sign.</figcaption>
 </pre>
 
 
 <pre align="center">
   <img src="./Images/IMG_4063.png">
-  <figcaption>Fig.248 - .</figcaption>
+  <figcaption>Fig.248 - Merging Traffic From Right Ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4061.png">
-  <figcaption>Fig.249 - .</figcaption>
+  <figcaption>Fig.249 - Merging Traffic From Right Ahead sign.</figcaption>
 </pre>
 
-
-E) Right Lane Ends - Quantity: 2
+E) Right Lane Ends Sign - Quantity: 2
 
 **20006_RightLaneEnds_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4071.png">
-  <figcaption>Fig.250 - .</figcaption>
+  <figcaption>Fig.250 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4070.png">
-  <figcaption>Fig.251 - .</figcaption>
+  <figcaption>Fig.251 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4069.png">
-  <figcaption>Fig.252 - .</figcaption>
+  <figcaption>Fig.252 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4068.png">
-  <figcaption>Fig.253 - .</figcaption>
+  <figcaption>Fig.253 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4067.png">
-  <figcaption>Fig.254 - .</figcaption>
+  <figcaption>Fig.254 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 **20007_RightLaneEnds_22DIII**
 <pre align="center">
   <img src="./Images/IMG_41099.png">
-  <figcaption>Fig.255 - .</figcaption>
+  <figcaption>Fig.255 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4070.png">
-  <figcaption>Fig.256 - .</figcaption>
+  <figcaption>Fig.256 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4069.png">
-  <figcaption>Fig.257 - .</figcaption>
+  <figcaption>Fig.257 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4068.png">
-  <figcaption>Fig.258 - .</figcaption>
+  <figcaption>Fig.258 - Right Lane Ends Sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4067.png">
-  <figcaption>Fig.259 - .</figcaption>
+  <figcaption>Fig.259 - Right Lane Ends Sign.</figcaption>
 </pre>
 
-F) Right Reverse Curve - Quantity: 1
+F) Right Reverse Curve sign - Quantity: 1
 
 **20008_RightReverseCurve_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4086.png">
-  <figcaption>Fig.260 - .</figcaption>
+  <figcaption>Fig.260 - Right Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4096.png">
-  <figcaption>Fig.261 - .</figcaption>
+  <figcaption>Fig.261 - Right Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4095.png">
-  <figcaption>Fig.262 - .</figcaption>
+  <figcaption>Fig.262 - Right Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4094.png">
-  <figcaption>Fig.263 - .</figcaption>
+  <figcaption>Fig.263 - Right Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4093.png">
-  <figcaption>Fig.264 - .</figcaption>
+  <figcaption>Fig.264 - Right Reverse Curve sign.</figcaption>
 </pre>
 
-G) Left Reverse Curve - Quantity: 1
+G) Left Reverse Curve sign - Quantity: 1
 
 **20009_LeftReverseCurve_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4097.png">
-  <figcaption>Fig.265 - .</figcaption>
+  <figcaption>Fig.265 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4096.png">
-  <figcaption>Fig.266 - .</figcaption>
+  <figcaption>Fig.266 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4085.png">
-  <figcaption>Fig.267 - .</figcaption>
+  <figcaption>Fig.267 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4084.png">
-  <figcaption>Fig.268 - .</figcaption>
+  <figcaption>Fig.268 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4083.png">
-  <figcaption>Fig.269 - .</figcaption>
+  <figcaption>Fig.269 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4082.png">
-  <figcaption>Fig.270 - .</figcaption>
+  <figcaption>Fig.270 - Left Reverse Curve sign.</figcaption>
 </pre>
 
 
@@ -1542,27 +1541,27 @@ H) Stop Sign Ahead - Quantity: 1
 **20010_StopSignAhead_22BIII**
 <pre align="center">
   <img src="./Images/IMG_4104.png">
-  <figcaption>Fig.271 - .</figcaption>
+  <figcaption>Fig.271 - Stop Sign Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4103.png">
-  <figcaption>Fig.272 - .</figcaption>
+  <figcaption>Fig.272 - Stop Sign Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4102.png">
-  <figcaption>Fig.273 - .</figcaption>
+  <figcaption>Fig.273 - Stop Sign Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4101.png">
-  <figcaption>Fig.274 - .</figcaption>
+  <figcaption>Fig.274 - Stop Sign Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4100.png">
-  <figcaption>Fig.275 - .</figcaption>
+  <figcaption>Fig.275 - Stop Sign Ahead.</figcaption>
 </pre>
 
 I) Traffic Signal Ahead - Quantity: 1
@@ -1570,653 +1569,653 @@ I) Traffic Signal Ahead - Quantity: 1
 **20011_TrafficSignalAhead_22DIII**
 <pre align="center">
   <img src="./Images/IMG_4092.png">
-  <figcaption>Fig.276 - .</figcaption>
+  <figcaption>Fig.276 - Traffic Signal Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4090.png">
-  <figcaption>Fig.277 - .</figcaption>
+  <figcaption>Fig.277 - Traffic Signal Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4089.png">
-  <figcaption>Fig.278 - .</figcaption>
+  <figcaption>Fig.278 - Traffic Signal Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4088.png">
-  <figcaption>Fig.279 - .</figcaption>
+  <figcaption>Fig.279 - Traffic Signal Ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4087.png">
-  <figcaption>Fig.280 - .</figcaption>
+  <figcaption>Fig.280 - Traffic Signal Ahead.</figcaption>
 </pre>
 
-J) NO PASSING ZONE - Quantity: 1
+J) NO PASSING ZONE sign - Quantity: 1
 
 **20012_-NO-PASSING-ZONE-_A**
 <pre align="center">
   <img src="./Images/IMG_4077.png">
-  <figcaption>Fig.281 - .</figcaption>
+  <figcaption>Fig.281 - NO PASSING ZONE sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4078.png">
-  <figcaption>Fig.282 - .</figcaption>
+  <figcaption>Fig.282 - NO PASSING ZONE sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4079.png">
-  <figcaption>Fig.283 - .</figcaption>
+  <figcaption>Fig.283 - NO PASSING ZONE sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4080.png">
-  <figcaption>Fig.284 - .</figcaption>
+  <figcaption>Fig.284 - NO PASSING ZONE sign.</figcaption>
 </pre>
 
 
 <pre align="center">
   <img src="./Images/IMG_4081.png">
-  <figcaption>Fig.285 - .</figcaption>
+  <figcaption>Fig.285 - NO PASSING ZONE sign.</figcaption>
 </pre>
 
 
 
 ### **3) Orange**
 
-A) NO PASSING ZONE - Quantity: 2
+A) One lane road ahead sign - Quantity: 2
 
 **30001_-ONE+LANE-ROAD-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4183.png">
-  <figcaption>Fig.286 - .</figcaption>
+  <figcaption>Fig.286 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4108.png">
-  <figcaption>Fig.287 - .</figcaption>
+  <figcaption>Fig.287 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4107.png">
-  <figcaption>Fig.288 - .</figcaption>
+  <figcaption>Fig.288 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4106.png">
-  <figcaption>Fig.289 - .</figcaption>
+  <figcaption>Fig.289 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4105.png">
-  <figcaption>Fig.290 - .</figcaption>
+  <figcaption>Fig.290 - One lane road ahead sign.</figcaption>
 </pre>
 
 
 **30002_-ONE+LANE-ROAD-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4182.png">
-  <figcaption>Fig.291 - .</figcaption>
+  <figcaption>Fig.291 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4108.png">
-  <figcaption>Fig.292 - .</figcaption>
+  <figcaption>Fig.292 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4107.png">
-  <figcaption>Fig.293 - .</figcaption>
+  <figcaption>Fig.293 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4106.png">
-  <figcaption>Fig.294 - .</figcaption>
+  <figcaption>Fig.294 - One lane road ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4105.png">
-  <figcaption>Fig.295 - .</figcaption>
+  <figcaption>Fig.295 - One lane road ahead sign.</figcaption>
 </pre>
 
 
-B) NO PASSING ZONE - Quantity: 1
+B) Left lane closed ahead sign - Quantity: 1
 
 **30003_-LEFT+LANE-CLOSED-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4181.png">
-  <figcaption>Fig.296 - .</figcaption>
+  <figcaption>Fig.296 - Left lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4140.png">
-  <figcaption>Fig.297 - .</figcaption>
+  <figcaption>Fig.297 - Left lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4139.png">
-  <figcaption>Fig.298 - .</figcaption>
+  <figcaption>Fig.298 - Left lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4138.png">
-  <figcaption>Fig.299 - .</figcaption>
+  <figcaption>Fig.299 - Left lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4137.png">
-  <figcaption>Fig.300 - .</figcaption>
+  <figcaption>Fig.300 - Left lane closed ahead sign.</figcaption>
 </pre>
 
-C) Lanes shift ahead - Quantity: 3
+C) Lanes shift ahead sign - Quantity: 3
 
 **30004_-LANES-SHIFT-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4185.png">
-  <figcaption>Fig.301 - .</figcaption>
+  <figcaption>Fig.301 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4112.png">
-  <figcaption>Fig.302 - .</figcaption>
+  <figcaption>Fig.302 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4111.png">
-  <figcaption>Fig.303 - .</figcaption>
+  <figcaption>Fig.303 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4110.png">
-  <figcaption>Fig.303 - .</figcaption>
+  <figcaption>Fig.303 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4109.png">
-  <figcaption>Fig.304 - .</figcaption>
+  <figcaption>Fig.304 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 **30005_-LANES-SHIFT-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4186.png">
-  <figcaption>Fig.305 - .</figcaption>
+  <figcaption>Fig.305 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4112.png">
-  <figcaption>Fig.306 - .</figcaption>
+  <figcaption>Fig.306 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4111.png">
-  <figcaption>Fig.307 - .</figcaption>
+  <figcaption>Fig.307 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4110.png">
-  <figcaption>Fig.308 - .</figcaption>
+  <figcaption>Fig.308 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4109.png">
-  <figcaption>Fig.309 - .</figcaption>
+  <figcaption>Fig.309 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 
 **30006_-LANES-SHIFT-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4184.png">
-  <figcaption>Fig.310 - .</figcaption>
+  <figcaption>Fig.310 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4112.png">
-  <figcaption>Fig.311 - .</figcaption>
+  <figcaption>Fig.311 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4111.png">
-  <figcaption>Fig.312 - .</figcaption>
+  <figcaption>Fig.312 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4110.png">
-  <figcaption>Fig.313 - .</figcaption>
+  <figcaption>Fig.313 - Lanes shift ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4109.png">
-  <figcaption>Fig.314 - .</figcaption>
+  <figcaption>Fig.314 - Lanes shift ahead sign.</figcaption>
 </pre>
 
-D) Road work ahead - Quantity: 4
+D) Road work ahead sign - Quantity: 4
 
 **30007_-ROAD-WORK-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4188.png">
-  <figcaption>Fig.315 - .</figcaption>
+  <figcaption>Fig.315 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4136.png">
-  <figcaption>Fig.316 - .</figcaption>
+  <figcaption>Fig.316 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4116.png">
-  <figcaption>Fig.317 - .</figcaption>
+  <figcaption>Fig.317 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4114.png">
-  <figcaption>Fig.318 - .</figcaption>
+  <figcaption>Fig.318 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4113.png">
-  <figcaption>Fig.319 - .</figcaption>
+  <figcaption>Fig.319 - Road work ahead sign.</figcaption>
 </pre>
 
 **30008_-ROAD-WORK-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4190.png">
-  <figcaption>Fig.320 - .</figcaption>
+  <figcaption>Fig.320 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4136.png">
-  <figcaption>Fig.321 - .</figcaption>
+  <figcaption>Fig.321 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4116.png">
-  <figcaption>Fig.322 - .</figcaption>
+  <figcaption>Fig.322 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4114.png">
-  <figcaption>Fig.323 - .</figcaption>
+  <figcaption>Fig.323 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4113.png">
-  <figcaption>Fig.324 - .</figcaption>
+  <figcaption>Fig.324 - Road work ahead sign.</figcaption>
 </pre>
 
 
 **30009_-ROAD-WORK-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4189.png">
-  <figcaption>Fig.325 - .</figcaption>
+  <figcaption>Fig.325 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4136.png">
-  <figcaption>Fig.326 - .</figcaption>
+  <figcaption>Fig.326 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4116.png">
-  <figcaption>Fig.327 - .</figcaption>
+  <figcaption>Fig.327 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4114.png">
-  <figcaption>Fig.328 - .</figcaption>
+  <figcaption>Fig.328 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4113.png">
-  <figcaption>Fig.329 - .</figcaption>
+  <figcaption>Fig.329 - Road work ahead sign.</figcaption>
 </pre>
 
 
 **30010_-ROAD-WORK-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4187.png">
-  <figcaption>Fig.330 - .</figcaption>
+  <figcaption>Fig.330 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4136.png">
-  <figcaption>Fig.331 - .</figcaption>
+  <figcaption>Fig.331 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4116.png">
-  <figcaption>Fig.332 - .</figcaption>
+  <figcaption>Fig.332 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4114.png">
-  <figcaption>Fig.333 - .</figcaption>
+  <figcaption>Fig.333 - Road work ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4113.png">
-  <figcaption>Fig.334 - .</figcaption>
+  <figcaption>Fig.334 - Road work ahead sign.</figcaption>
 </pre>
 
-E) Right lane closed ahead - Quantity: 4
+E) Right lane closed ahead sign - Quantity: 4
 
 **30011_-RIGHT+LANE-CLOSED-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4192.png">
-  <figcaption>Fig.335 - .</figcaption>
+  <figcaption>Fig.335 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4120.png">
-  <figcaption>Fig.336 - .</figcaption>
+  <figcaption>Fig.336 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4119.png">
-  <figcaption>Fig.337 - .</figcaption>
+  <figcaption>Fig.337 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4118.png">
-  <figcaption>Fig.338 - .</figcaption>
+  <figcaption>Fig.338 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4117.png">
-  <figcaption>Fig.339 - .</figcaption>
+  <figcaption>Fig.339 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 **30012_-RIGHT+LANE-CLOSED-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4200.png">
-  <figcaption>Fig.340 - .</figcaption>
+  <figcaption>Fig.340 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4120.png">
-  <figcaption>Fig.341 - .</figcaption>
+  <figcaption>Fig.341 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4119.png">
-  <figcaption>Fig.342 - .</figcaption>
+  <figcaption>Fig.342 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4118.png">
-  <figcaption>Fig.343 - .</figcaption>
+  <figcaption>Fig.343 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4117.png">
-  <figcaption>Fig.344 - .</figcaption>
+  <figcaption>Fig.344 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 **30013_-RIGHT+LANE-CLOSED-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4191.png">
-  <figcaption>Fig.345 - .</figcaption>
+  <figcaption>Fig.345 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4120.png">
-  <figcaption>Fig.346 - .</figcaption>
+  <figcaption>Fig.346 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4119.png">
-  <figcaption>Fig.347 - .</figcaption>
+  <figcaption>Fig.347 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4118.png">
-  <figcaption>Fig.348 - .</figcaption>
+  <figcaption>Fig.348 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4117.png">
-  <figcaption>Fig.349 - .</figcaption>
+  <figcaption>Fig.349 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 **30014_-RIGHT+LANE-CLOSED-AHEAD-_21DIII**
 <pre align="center">
   <img src="./Images/IMG_4193.png">
-  <figcaption>Fig.350 - .</figcaption>
+  <figcaption>Fig.350 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4120.png">
-  <figcaption>Fig.351 - .</figcaption>
+  <figcaption>Fig.351 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4119.png">
-  <figcaption>Fig.352 - .</figcaption>
+  <figcaption>Fig.352 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4118.png">
-  <figcaption>Fig.353 - .</figcaption>
+  <figcaption>Fig.353 - Right lane closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4117.png">
-  <figcaption>Fig.354 - .</figcaption>
+  <figcaption>Fig.354 - Right lane closed ahead sign.</figcaption>
 </pre>
 
-F) Road closed ahead - Quantity: 2
+F) Road closed ahead sign - Quantity: 2
 
 **30015_-ROAD-CLOSED-AHEAD-_20CIII**
 <pre align="center">
   <img src="./Images/IMG_4196.png">
-  <figcaption>Fig.355 - .</figcaption>
+  <figcaption>Fig.355 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4135.png">
-  <figcaption>Fig.356 - .</figcaption>
+  <figcaption>Fig.356 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4123.png">
-  <figcaption>Fig.357 - .</figcaption>
+  <figcaption>Fig.357 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4122.png">
-  <figcaption>Fig.358 - .</figcaption>
+  <figcaption>Fig.358 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4121.png">
-  <figcaption>Fig.359 - .</figcaption>
+  <figcaption>Fig.359 - Road closed ahead sign.</figcaption>
 </pre>
 
 **30016_-ROAD-CLOSED-AHEAD-_20CIII**
 <pre align="center">
   <img src="./Images/IMG_4199.png">
-  <figcaption>Fig.360 - .</figcaption>
+  <figcaption>Fig.360 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4135.png">
-  <figcaption>Fig.361 - .</figcaption>
+  <figcaption>Fig.361 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4123.png">
-  <figcaption>Fig.362 - .</figcaption>
+  <figcaption>Fig.362 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4122.png">
-  <figcaption>Fig.363 - .</figcaption>
+  <figcaption>Fig.363 - Road closed ahead sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4121.png">
-  <figcaption>Fig.364 - .</figcaption>
+  <figcaption>Fig.364 - Road closed ahead sign.</figcaption>
 </pre>
 
 
-G) NO PASSING ZONE - Quantity: 1
+G) End road work sign - Quantity: 1
 
 **30017_-END-ROAD+WORK-_**
 <pre align="center">
   <img src="./Images/IMG_4198.png">
-  <figcaption>Fig.365 - .</figcaption>
+  <figcaption>Fig.365 - End road work sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4134.png">
-  <figcaption>Fig.366 - .</figcaption>
+  <figcaption>Fig.366 - End road work sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4126.png">
-  <figcaption>Fig.367 - .</figcaption>
+  <figcaption>Fig.367 - End road work sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4125.png">
-  <figcaption>Fig.368 - .</figcaption>
+  <figcaption>Fig.368 - End road work sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4124.png">
-  <figcaption>Fig.369 - .</figcaption>
+  <figcaption>Fig.369 - End road work sign.</figcaption>
 </pre>
 
-H) NO PASSING ZONE - Quantity: 1
+H) End detour sign - Quantity: 1
 
 **30018_-END-DETOUR-_**
 <pre align="center">
   <img src="./Images/IMG_4201.png">
-  <figcaption>Fig.370 - .</figcaption>
+  <figcaption>Fig.370 - End detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4133.png">
-  <figcaption>Fig.371 - .</figcaption>
+  <figcaption>Fig.371 - End detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4127.png">
-  <figcaption>Fig.372 - .</figcaption>
+  <figcaption>Fig.372 - End detour sign.</figcaption>
 </pre>
 
 
-I) NO PASSING ZONE - Quantity: 2
+I) Detour ahead - Quantity: 2
 
 **30019_-DETOUR-AHEAD-_B**
 <pre align="center">
   <img src="./Images/IMG_4195.png">
-  <figcaption>Fig.373 - .</figcaption>
+  <figcaption>Fig.373 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4132.png">
-  <figcaption>Fig.374 - .</figcaption>
+  <figcaption>Fig.374 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4131.png">
-  <figcaption>Fig.375 - .</figcaption>
+  <figcaption>Fig.375 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4130.png">
-  <figcaption>Fig.376 - .</figcaption>
+  <figcaption>Fig.376 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4129.png">
-  <figcaption>Fig.377 - .</figcaption>
+  <figcaption>Fig.377 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4128.png">
-  <figcaption>Fig.378 - .</figcaption>
+  <figcaption>Fig.378 - Detour ahead.</figcaption>
 </pre>
 
 **30020_-DETOUR-AHEAD-_B**
 <pre align="center">
   <img src="./Images/IMG_4194.png">
-  <figcaption>Fig.379 - .</figcaption>
+  <figcaption>Fig.379 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4132.png">
-  <figcaption>Fig.380 - .</figcaption>
+  <figcaption>Fig.380 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4131.png">
-  <figcaption>Fig.381 - .</figcaption>
+  <figcaption>Fig.381 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4130.png">
-  <figcaption>Fig.382 - .</figcaption>
+  <figcaption>Fig.382 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4129.png">
-  <figcaption>Fig.383 - .</figcaption>
+  <figcaption>Fig.383 - Detour ahead.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4128.png">
-  <figcaption>Fig.384 - .</figcaption>
+  <figcaption>Fig.384 - Detour ahead.</figcaption>
 </pre>
 
-J) Up Arrow Detour - Quantity: 2
+J) Up Arrow Detour sign - Quantity: 2
 
 **30021_UpArrow_-DETOUR-_B**
 <pre align="center">
   <img src="./Images/IMG_4207.png">
-  <figcaption>Fig.385 - .</figcaption>
+  <figcaption>Fig.385 - Up Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4146.png">
-  <figcaption>Fig.386 - .</figcaption>
+  <figcaption>Fig.386 - Up Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4145.png">
-  <figcaption>Fig.387 - .</figcaption>
+  <figcaption>Fig.387 - Up Arrow Detour sign.</figcaption>
 </pre>
 
 **30022_UpArrow_-DETOUR-_B**
 <pre align="center">
   <img src="./Images/IMG_4206.png">
-  <figcaption>Fig.388 - .</figcaption>
+  <figcaption>Fig.388 - Up Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4146.png">
-  <figcaption>Fig.389 - .</figcaption>
+  <figcaption>Fig.389 - Up Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4145.png">
-  <figcaption>Fig.390 - .</figcaption>
+  <figcaption>Fig.390 - Up Arrow Detour sign.</figcaption>
 </pre>
 
-K) NO PASSING ZONE - Quantity: 2
+K) Right Arrow Detour sign - Quantity: 2
 
 **30023_RightArrow_-DETOUR-_D21**
 <pre align="center">
   <img src="./Images/IMG_4205.png">
-  <figcaption>Fig.391 - .</figcaption>
+  <figcaption>Fig.391 - Right Arrow Detour sign.</figcaption>
 </pre>
 
 **30024_RightArrow_-DETOUR-_D21**
 <pre align="center">
   <img src="./Images/IMG_4204.png">
-  <figcaption>Fig.392 - .</figcaption>
+  <figcaption>Fig.392 - Right Arrow Detour sign.</figcaption>
 </pre>
 
 L) NO PASSING ZONE - Quantity: 2
@@ -2224,13 +2223,13 @@ L) NO PASSING ZONE - Quantity: 2
 **30025_LeftArrow_-DETOUR-_21D**
 <pre align="center">
   <img src="./Images/IMG_4203.png">
-  <figcaption>Fig.393 - .</figcaption>
+  <figcaption>Fig.393 - Right Arrow Detour sign.</figcaption>
 </pre>
 
 **30026_LeftArrow_-DETOUR-_21D**
 <pre align="center">
   <img src="./Images/IMG_4202.png">
-  <figcaption>Fig.394 - .</figcaption>
+  <figcaption>Fig.394 - Right Arrow Detour sign.</figcaption>
 </pre>
 
 M) Detour - Quantity: 10
@@ -2238,208 +2237,208 @@ M) Detour - Quantity: 10
 **30027_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4213.png">
-  <figcaption>Fig.395 - .</figcaption>
+  <figcaption>Fig.395 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.396 - .</figcaption>
+  <figcaption>Fig.396 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.397 - .</figcaption>
+  <figcaption>Fig.397 - Detour.</figcaption>
 </pre>
 
 **30028_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4212.png">
-  <figcaption>Fig.398 - .</figcaption>
+  <figcaption>Fig.398 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.399 - .</figcaption>
+  <figcaption>Fig.399 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.400 - .</figcaption>
+  <figcaption>Fig.400 - Detour.</figcaption>
 </pre>
 
 **30029_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4211.png">
-  <figcaption>Fig.401 - .</figcaption>
+  <figcaption>Fig.401 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.402 - .</figcaption>
+  <figcaption>Fig.402 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.403 - .</figcaption>
+  <figcaption>Fig.403 - Detour.</figcaption>
 </pre>
 
 **30030_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4210.png">
-  <figcaption>Fig.404 - .</figcaption>
+  <figcaption>Fig.404 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.405 - .</figcaption>
+  <figcaption>Fig.405 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.406 - .</figcaption>
+  <figcaption>Fig.406 - Detour.</figcaption>
 </pre>
 
 **30031_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4209.png">
-  <figcaption>Fig.407 - .</figcaption>
+  <figcaption>Fig.407 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.408 - .</figcaption>
+  <figcaption>Fig.408 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.409 - .</figcaption>
+  <figcaption>Fig.409 - Detour.</figcaption>
 </pre>
 
 **30032_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4208.png">
-  <figcaption>Fig.410 - .</figcaption>
+  <figcaption>Fig.410 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.411 - .</figcaption>
+  <figcaption>Fig.411 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.412 - .</figcaption>
+  <figcaption>Fig.412 - Detour.</figcaption>
 </pre>
 
 **30033_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4214.png">
-  <figcaption>Fig.413 - .</figcaption>
+  <figcaption>Fig.413 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.414 - .</figcaption>
+  <figcaption>Fig.414 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.415 - .</figcaption>
+  <figcaption>Fig.415 - Detour.</figcaption>
 </pre>
 
 **30034_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4215.png">
-  <figcaption>Fig.416 - .</figcaption>
+  <figcaption>Fig.416 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.417 - .</figcaption>
+  <figcaption>Fig.417 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.418 - .</figcaption>
+  <figcaption>Fig.418 - Detour.</figcaption>
 </pre>
 
 **30035_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4216.png">
-  <figcaption>Fig.419 - .</figcaption>
+  <figcaption>Fig.419 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.420 - .</figcaption>
+  <figcaption>Fig.420 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.421 - .</figcaption>
+  <figcaption>Fig.421 - Detour.</figcaption>
 </pre>
 
 **30036_-DETOUR-_BIII22**
 <pre align="center">
   <img src="./Images/IMG_4217.png">
-  <figcaption>Fig.422 - .</figcaption>
+  <figcaption>Fig.422 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4148.png">
-  <figcaption>Fig.423 - .</figcaption>
+  <figcaption>Fig.423 - Detour.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4147.png">
-  <figcaption>Fig.424 - .</figcaption>
+  <figcaption>Fig.424 - Detour.</figcaption>
 </pre>
-N) Left Arrow Detour - Quantity: 1
+N) Left Arrow Detour sign - Quantity: 1
 
 **30037_LeftArrow_-DETOUR-_22DVII**
 <pre align="center">
   <img src="./Images/IMG_4218.png">
-  <figcaption>Fig.425 - .</figcaption>
+  <figcaption>Fig.425 - Left Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4144.png">
-  <figcaption>Fig.426 - .</figcaption>
+  <figcaption>Fig.426 - Left Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4143.png">
-  <figcaption>Fig.427 - .</figcaption>
+  <figcaption>Fig.427 - Left Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4142.png">
-  <figcaption>Fig.428 - .</figcaption>
+  <figcaption>Fig.428 - Left Arrow Detour sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4141.png">
-  <figcaption>Fig.429 - .</figcaption>
+  <figcaption>Fig.429 - Left Arrow Detour sign.</figcaption>
 </pre>
 
-O) NO PASSING ZONE - Quantity: 3
+O) Road work ahead fabric - Quantity: 3
 
 **30038_-ROAD-WORK-AHEAD-_Fabric**
 <pre align="center">
   <img src="./Images/IMG_4237.png">
-  <figcaption>Fig.430 - .</figcaption>
+  <figcaption>Fig.430 - Road work ahead fabric.</figcaption>
 </pre>
 
 **30039_Flagger_Fabric**
 <pre align="center">
   <img src="./Images/IMG_4236.png">
-  <figcaption>Fig.431 - .</figcaption>
+  <figcaption>Fig.431 - Flagger fabric.</figcaption>
 </pre>
 
 **30040_-BE-PREPARED-TO+STOP-_Fabric**
 <pre align="center">
   <img src="./Images/IMG_4235.png">
-  <figcaption>Fig.432 - .</figcaption>
+  <figcaption>Fig.432 - Be prepared to stop fabric.</figcaption>
 </pre>
 
 
@@ -2450,113 +2449,113 @@ A) STOP sign - Quantity: 7
 **40001_-STOP-_B22**
 <pre align="center">
   <img src="./Images/IMG_4151.png">
-  <figcaption>Fig.433 - .</figcaption>
+  <figcaption>Fig.433 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4150.png">
-  <figcaption>Fig.434 - .</figcaption>
+  <figcaption>Fig.434 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4149.png">
-  <figcaption>Fig.435 - .</figcaption>
+  <figcaption>Fig.435 - STOP sign.</figcaption>
 </pre>
 
 **40002_-STOP-_B22**
 <pre align="center">
   <img src="./Images/IMG_4153.png">
-  <figcaption>Fig.436 - .</figcaption>
+  <figcaption>Fig.436 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4150.png">
-  <figcaption>Fig.437 - .</figcaption>
+  <figcaption>Fig.437 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4149.png">
-  <figcaption>Fig.438 - .</figcaption>
+  <figcaption>Fig.438 - STOP sign.</figcaption>
 </pre>
 
 **40003_-STOP-_B22**
 <pre align="center">
   <img src="./Images/IMG_4154.png">
-  <figcaption>Fig.439 - .</figcaption>
+  <figcaption>Fig.439 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4150.png">
-  <figcaption>Fig.440 - .</figcaption>
+  <figcaption>Fig.440 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4149.png">
-  <figcaption>Fig.441 - .</figcaption>
+  <figcaption>Fig.441 - STOP sign.</figcaption>
 </pre>
 
 **40004_-STOP-_B22**
 <pre align="center">
   <img src="./Images/IMG_4155.png">
-  <figcaption>Fig.442 - .</figcaption>
+  <figcaption>Fig.442 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4150.png">
-  <figcaption>Fig.443 - .</figcaption>
+  <figcaption>Fig.443 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4149.png">
-  <figcaption>Fig.444 - .</figcaption>
+  <figcaption>Fig.444 - STOP sign.</figcaption>
 </pre>
 
 **40005_-STOP-_97AII_inService**
 <pre align="center">
   <img src="./Images/IMG_4177.png">
-  <figcaption>Fig.445 - .</figcaption>
+  <figcaption>Fig.445 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4150.png">
-  <figcaption>Fig.446 - .</figcaption>
+  <figcaption>Fig.446 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4149.png">
-  <figcaption>Fig.447 - .</figcaption>
+  <figcaption>Fig.447 - STOP sign.</figcaption>
 </pre>
 
 **40006_-STOP-_96CII_OutOfService**
 <pre align="center">
   <img src="./Images/IMG_4178.png">
-  <figcaption>Fig.448 - .</figcaption>
+  <figcaption>Fig.448 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4157.png">
-  <figcaption>Fig.449 - .</figcaption>
+  <figcaption>Fig.449 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4156.png">
-  <figcaption>Fig.450 - .</figcaption>
+  <figcaption>Fig.450 - STOP sign.</figcaption>
 </pre>
 
 **40007_-STOP-_ OutOfService**
 <pre align="center">
   <img src="./Images/IMG_4179.png">
-  <figcaption>Fig.451 - .</figcaption>
+  <figcaption>Fig.451 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4157.png">
-  <figcaption>Fig.452 - .</figcaption>
+  <figcaption>Fig.452 - STOP sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4156.png">
-  <figcaption>Fig.453 - .</figcaption>
+  <figcaption>Fig.453 - STOP sign.</figcaption>
 </pre>
 
 B) YIELD sign - Quantity: 3
@@ -2564,92 +2563,92 @@ B) YIELD sign - Quantity: 3
 **40008_-YIELD-_IIA07_inService**
 <pre align="center">
   <img src="./Images/IMG_4169.png">
-  <figcaption>Fig.454 - .</figcaption>
+  <figcaption>Fig.454 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4166.png">
-  <figcaption>Fig.455 - .</figcaption>
+  <figcaption>Fig.455 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4165.png">
-  <figcaption>Fig.456 - .</figcaption>
+  <figcaption>Fig.456 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4163.png">
-  <figcaption>Fig.457 - .</figcaption>
+  <figcaption>Fig.457 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4162.png">
-  <figcaption>Fig.458 - .</figcaption>
+  <figcaption>Fig.458 - YIELD sign.</figcaption>
 </pre>
 
 
 **40009_-YIELD-_II02C_inService**
 <pre align="center">
   <img src="./Images/IMG_4168.png">
-  <figcaption>Fig.459 - .</figcaption>
+  <figcaption>Fig.459 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4166.png">
-  <figcaption>Fig.460 - .</figcaption>
+  <figcaption>Fig.460 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4165.png">
-  <figcaption>Fig.461 - .</figcaption>
+  <figcaption>Fig.461 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4163.png">
-  <figcaption>Fig.462 - .</figcaption>
+  <figcaption>Fig.462 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4162.png">
-  <figcaption>Fig.463 - .</figcaption>
+  <figcaption>Fig.463 - YIELD sign.</figcaption>
 </pre>
 
 **40010_-YIELD-_ IIB05_OutOfService**
 <pre align="center">
   <img src="./Images/IMG_4180.png">
-  <figcaption>Fig.464 - .</figcaption>
+  <figcaption>Fig.464 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4167.png">
-  <figcaption>Fig.465 - .</figcaption>
+  <figcaption>Fig.465 - YIELD sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4164.png">
-  <figcaption>Fig.466 - .</figcaption>
+  <figcaption>Fig.466 - YIELD sign.</figcaption>
 </pre>
 
 ### **5) Green** 
 
-A) Right Corner Arrow - Quantity: 1
+A) Right Corner Arrow sign - Quantity: 1
 
 **50001_RightCornerArrow_-EXIT-_**
 <pre align="center">
   <img src="./Images/IMG_4054.png">
-  <figcaption>Fig.467 - .</figcaption>
+  <figcaption>Fig.467 - Right Corner Arrow sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4053.png">
-  <figcaption>Fig.468 - .</figcaption>
+  <figcaption>Fig.468 - Right Corner Arrow sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4052.png">
-  <figcaption>Fig.469 - .</figcaption>
+  <figcaption>Fig.469 - Right Corner Arrow sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4051.png">
-  <figcaption>Fig.470 - .</figcaption>
+  <figcaption>Fig.470 - Right Corner Arrow sign.</figcaption>
 </pre>
 
 ### **6) Cones/Barrels/Vertical Panels**
@@ -2659,19 +2658,19 @@ A) Cones - Quantity: 3
 **60001_Cones_36inch**
 <pre align="center">
   <img src="./Images/IMG_4230.png">
-  <figcaption>Fig.471 - .</figcaption>
+  <figcaption>Fig.471 -  Cone.</figcaption>
 </pre>
 
 **60002_Cones_36inch**
 <pre align="center">
   <img src="./Images/IMG_4229.png">
-  <figcaption>Fig.472 - .</figcaption>
+  <figcaption>Fig.472 -  Cone.</figcaption>
 </pre>
 
 **60003_Cones_36inch**
 <pre align="center">
   <img src="./Images/IMG_4231.png">
-  <figcaption>Fig.473 - .</figcaption>
+  <figcaption>Fig.473 -  Cone.</figcaption>
 </pre>
 
 B) Vertical traffic panel - Quantity: 3
@@ -2679,19 +2678,19 @@ B) Vertical traffic panel - Quantity: 3
 **60004_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4232.png">
-  <figcaption>Fig.474 - .</figcaption>
+  <figcaption>Fig.474 - Vertical traffic panel.</figcaption>
 </pre>
 
 **60005_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4234.png">
-  <figcaption>Fig.475 - .</figcaption>
+  <figcaption>Fig.475 - Vertical traffic panel.</figcaption>
 </pre>
 
 **60006_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4233.png">
-  <figcaption>Fig.476 - .</figcaption>
+  <figcaption>Fig.476 - Vertical traffic panel.</figcaption>
 </pre>
 
 C) Single Spring Stand With Steel Legs - Quantity: 3
@@ -2699,19 +2698,19 @@ C) Single Spring Stand With Steel Legs - Quantity: 3
 **60007_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4240.png">
-  <figcaption>Fig.477 - .</figcaption>
+  <figcaption>Fig.477 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 **60008_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4239.png">
-  <figcaption>Fig.478 - .</figcaption>
+  <figcaption>Fig.478 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 **60009_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4238.png">
-  <figcaption>Fig.479 - .</figcaption>
+  <figcaption>Fig.479 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 D) XLarge Safety Vest - Quantity: 3
@@ -2719,19 +2718,19 @@ D) XLarge Safety Vest - Quantity: 3
 **60010_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4228.png">
-  <figcaption>Fig.480 - .</figcaption>
+  <figcaption>Fig.480 - XLarge Safety Vest.</figcaption>
 </pre>
 
 **60011_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4221.png">
-  <figcaption>Fig.481 - .</figcaption>
+  <figcaption>Fig.481 - XLarge Safety Vest.</figcaption>
 </pre>
 
 **60012_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4227.png">
-  <figcaption>Fig.482 - .</figcaption>
+  <figcaption>Fig.482 - XLarge Safety Vest.</figcaption>
 </pre>
 
 E) Large Safety Vest - Quantity: 2
@@ -2739,13 +2738,13 @@ E) Large Safety Vest - Quantity: 2
 **60013_Large_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4223.png">
-  <figcaption>Fig.483 - .</figcaption>
+  <figcaption>Fig.483 - Large Safety Vest.</figcaption>
 </pre>
 
 **60014_Large_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4225.png">
-  <figcaption>Fig.484 - .</figcaption>
+  <figcaption>Fig.484 - Large Safety Vest.</figcaption>
 </pre>
 
 F) Regular Safety Vest - Quantity: 1
@@ -2753,13 +2752,13 @@ F) Regular Safety Vest - Quantity: 1
 **60015_Regular_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4224.png">
-  <figcaption>Fig.485 - .</figcaption>
+  <figcaption>Fig.485 - Regular Safety Vest.</figcaption>
 </pre>
 
 **60016_Regular_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4226.png">
-  <figcaption>Fig.486 - .</figcaption>
+  <figcaption>Fig.486 - Regular Safety Vest.</figcaption>
 </pre>
 
 G) Safety Vest Class 3 Level 2 - Quantity: 1
@@ -2770,19 +2769,19 @@ G) Safety Vest Class 3 Level 2 - Quantity: 1
 
 <pre align="center">
   <img src="./Images/IMG_4222.png">
-  <figcaption>Fig.487 - .</figcaption>
+  <figcaption>Fig.487 - Safety Vest Class 3 Level 2.</figcaption>
 </pre>
 
 ### **7) Boxes/Shipments**
 
 <pre align="center">
   <img src="./Images/IMG_4220.png">
-  <figcaption>Fig.488 - .</figcaption>
+  <figcaption>Fig.488 - Shipment.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4219.png">
-  <figcaption>Fig.489 - .</figcaption>
+  <figcaption>Fig.489 - Shipment.</figcaption>
 </pre>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
