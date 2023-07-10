@@ -47,8 +47,6 @@ Search for this, and you will find!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
@@ -59,8 +57,8 @@ Search for this, and you will find!
 
 The following are the top level directories within the repository:
 <ul>
- <li>/Documents folder: Explains the coding method for equipment. </li>
- <li>/Images folder: COntains images for all equipment. </li>
+ <li>Documents folder: Explains the coding method for equipment. </li>
+ <li>Images folder: COntains images for all equipment. </li>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
