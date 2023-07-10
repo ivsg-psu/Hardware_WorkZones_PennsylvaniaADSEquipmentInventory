@@ -2492,7 +2492,7 @@ A) STOP sign - Quantity: 7
 
 **40005_-STOP-_97AII_inService**
 <pre align="center">
-  <img src="./Images/IMG_4175.png">
+  <img src="./Images/IMG_4177.png">
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
