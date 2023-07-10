@@ -72,219 +72,219 @@ A) "Speed Limit 45" signs - Quantity: 3
 **10001_-SPEED-LIMIT-45-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_4172.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.1 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.2 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.3 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 **10002_-SPEED-LIMIT-45-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_4174.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.4 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.5 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.6 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 **10003_-SPEED-LIMIT-45-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_4173.png" alt="10004_-SPEED-LIMIT-45-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.7 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4171.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.8 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4170.png" alt="SPEED-LIMIT-45">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.9 - "Speed Limit 45" sign.</figcaption>
 </pre>
 
 
-B) "Speed Limit 35" signs" - Quantity: 5
+B) "Speed Limit 35" signs - Quantity: 5
 
 **10004_-SPEED-LIMIT-35-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3929.png" alt="10004_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.10 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4011.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.11 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4012.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.12 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 **10005_-SPEED-LIMIT-35-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3932.png" alt="10005_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.13 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4011.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.14 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4012.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.15 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 **10006_-SPEED-LIMIT-35-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3928.png" alt="10006_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.16 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4011.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.17 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4012.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.18 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 **10007_-SPEED-LIMIT-35-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3930.png" alt="10007_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.19 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4011.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.20 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4012.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.21 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 **10008_-SPEED-LIMIT-35-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3931.png" alt="10008_-SPEED-LIMIT-35-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.22 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4011.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.23 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4012.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.24 - "Speed Limit 35" sign.</figcaption>
 </pre>
 
 
 
-C) "Speed Limit 30 signs" - Quantity: 2
+C) "Speed Limit 30" signs - Quantity: 2
 
 **100010_-SPEED-LIMIT-30-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3933.png" alt="100010_-SPEED-LIMIT-30-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.25 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4008.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.26 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4010.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.27 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
 
 **10009_-SPEED-LIMIT-30-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3935.png" alt="10009_-SPEED-LIMIT-30-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.28 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4008.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.29 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4010.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.30 - "Speed Limit 30" sign.</figcaption>
 </pre>
 
-D) "Speed Limit 25 signs" - Quantity: 2
+D) "Speed Limit 25" sign - Quantity: 2
 
 **100011_-SPEED-LIMIT-25-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3934.png" alt="100011_-SPEED-LIMIT-25-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.31 - "Speed Limit 25" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4013.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.32 - "Speed Limit 25" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4014.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.33 - "Speed Limit 25" sign.</figcaption>
 </pre>
 
 **100012_-SPEED-LIMIT-25-_IIA21**
 <pre align="center">
   <img src="./Images/IMG_3936.png" alt="100012_-SPEED-LIMIT-25-_IIA21">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.34 - "Speed Limit 25" sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4013.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.35 - "Speed Limit 25" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4014.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.36 - "Speed Limit 25" sign.</figcaption>
 </pre>
 
-E) "Stay in lane sign" - Quantity: 1
+E) "Stay in lane" sign - Quantity: 1
 
 **10013_-STAY-IN-LANE-_D**
 <pre align="center">
   <img src="./Images/IMG_3937.png" alt="10013_-STAY-IN-LANE-_D">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.37 - "Stay in lane" sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4015.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.38 - "Stay in lane" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4016.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.39 - "Stay in lane" sign.</figcaption>
 </pre>
 
 F) Pennsylvania Route "45" sign - Quantity: 10 
@@ -292,181 +292,213 @@ F) Pennsylvania Route "45" sign - Quantity: 10
 **10014_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3942.png" alt="10014_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.40 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.41 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.42 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10015_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3943.png" alt="10015_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.43 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.44 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.45 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10017_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3938.png" alt="10017_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.46 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.47 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.48 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10018_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3944.png" alt="10018_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.49 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.50 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.51 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10020_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3946.png" alt="10020_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.52 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.53 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.54 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10021_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3940.png" alt="10021_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.55 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.56 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.57 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10022_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3941.png" alt="10022_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.58 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.59 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.60 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 **10023_PennsylvaniaRoute_-45-_21BII**
 <pre align="center">
   <img src="./Images/IMG_3945.png" alt="10023_PennsylvaniaRoute_-45-_21BII">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.61 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4017.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.62 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4018.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.63 - Pennsylvania Route "45" sign.</figcaption>
 </pre>
 
-G) Right Arrow signs - Quantity: 3
+G) Right Arrow signs - Quantity: 4
 
-**10025_RightArrow_D22**
+**10024_RightArrow_D22**
 <pre align="center">
-  <img src="./Images/IMG_3959.png" alt="10025_RightArrow_D22">
-  <figcaption>Fig.1 - .</figcaption>
+  <img src="./Images/IMG_3961.png" alt="10025_RightArrow_D22">
+  <figcaption>Fig.64 - Right Arrow sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4019.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.65 - Right Arrow sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4020.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.66 - Right Arrow sign.</figcaption>
+</pre>
+
+**10025_RightArrow_D22**
+<pre align="center">
+  <img src="./Images/IMG_3959.png" alt="10025_RightArrow_D22">
+  <figcaption>Fig.67 - Right Arrow sign.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4019.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.68 - Right Arrow sign.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4020.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.69 - Right Arrow sign.</figcaption>
 </pre>
 
 **10026_RightArrow_D22**
 <pre align="center">
   <img src="./Images/IMG_3960.png" alt="10026_RightArrow_D22">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.70 - Right Arrow sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4019.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.71 - Right Arrow sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4020.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.72 - Right Arrow sign.</figcaption>
 </pre>
 
 **10027_RightArrow_D22**
 <pre align="center">
   <img src="./Images/IMG_3958.png" alt="10027_RightArrow_D22">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.73 - Right Arrow sign.</figcaption>
 </pre>
 <pre align="center">
   <img src="./Images/IMG_4019.png" alt="SPEED-LIMIT-30">
-  <figcaption>Fig.1 - .</figcaption>
+  <figcaption>Fig.74 - Right Arrow sign.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4020.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.75 - Right Arrow sign.</figcaption>
+</pre>
+
+H) Up Arrow signs - Quantity: 3
+
+**10028_UpArrow_A**
+<pre align="center">
+  <img src="./Images/IMG_3962.png" alt="10029_UpArrow_A">
   <figcaption>Fig.1 - .</figcaption>
 </pre>
 
-H) Up Arrow signs - Quantity: 2
+<pre align="center">
+  <img src="./Images/IMG_4021.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_4022.png" alt="SPEED-LIMIT-30">
+  <figcaption>Fig.1 - .</figcaption>
+</pre>
 
 **10029_UpArrow_A**
 <pre align="center">
