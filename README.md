@@ -17,13 +17,12 @@ Search for this, and you will find!
   </h2>
 
   <pre align="center">
-    <img src=".\Images\RaceTrack.jpg" alt="main laps picture" width="960" height="540">
-    <!--figcaption>Fig.1 - The typical progression of map generation.</figcaption -->
-    <!--font size="-2">Photo by <a href="https://unsplash.com/ko/@samuelchenard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Samuel Chenard</a> on <a href="https://unsplash.com/photos/Bdc8uzY9EPw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></font -->
+    <img src=".\Images\01-PennDOT-Centered-color-TRANSPARENT-breathing-room.png">
+    <!--font size="-2">Photo by <a href="https://www.penndot.pa.gov/Pages/default.aspx"> -->
 </pre>
 
   <p align="center">
-    The purpose of this repo is to onventory the Pennsylvania ADS equipment.
+    The purpose of this repo is to inventory the Pennsylvania ADS equipment.
   </p>
 </p>
 
