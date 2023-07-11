@@ -2673,24 +2673,515 @@ A) Cones - Quantity: 3
   <figcaption>Fig.473 -  Cone.</figcaption>
 </pre>
 
+***Below are the cones received on 7/11/2023. These cones are not entirely new. Thus, they are given a grade from 0 to 9 based on their quality, where 0 means new and 9 means very old/out of service. The grade is shown right after the number 6 at the beginning of their code number. For example 63001 is a cone of grade 3.***
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_100255.jpg">
+  <figcaption>Fig.474 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_100313.jpg">
+  <figcaption>Fig.475 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_100340.jpg">
+  <figcaption>Fig.476 -  Cone.</figcaption>
+</pre>
+
+**Grade 3 - Quantity: 2**
+
+**63001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_110609.jpg">
+  <figcaption>Fig.477 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110620.jpg">
+  <figcaption>Fig.478 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110637.jpg">
+  <figcaption>Fig.479 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110644.jpg">
+  <figcaption>Fig.480 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110651.jpg">
+  <figcaption>Fig.481 -  Cone.</figcaption>
+</pre>
+
+**63002_Cones_28inch**
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110719.jpg">
+  <figcaption>Fig.482 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110726.jpg">
+  <figcaption>Fig.483 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110731.jpg">
+  <figcaption>Fig.484 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110737.jpg">
+  <figcaption>Fig.482 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110743.jpg">
+  <figcaption>Fig.485 -  Cone.</figcaption>
+</pre>
+
+**Grade 4 - Quantity: 4**
+
+**64001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_110757.jpg">
+  <figcaption>Fig.486 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110817.jpg">
+  <figcaption>Fig.487 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110824.jpg">
+  <figcaption>Fig.488 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110830.jpg">
+  <figcaption>Fig.489 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110836.jpg">
+  <figcaption>Fig.490 -  Cone.</figcaption>
+</pre>
+
+**64002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_110853.jpg">
+  <figcaption>Fig.491 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110904.jpg">
+  <figcaption>Fig.492 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110923.jpg">
+  <figcaption>Fig.493 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110929.jpg">
+  <figcaption>Fig.494 -  Cone.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230711_110942.jpg">
+  <figcaption>Fig.495 -  Cone.</figcaption>
+</pre>
+
+**64003_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_110956.jpg">
+  <figcaption>Fig.496 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111005.jpg">
+  <figcaption>Fig.497 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111012.jpg">
+  <figcaption>Fig.498 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111019.jpg">
+  <figcaption>Fig.499 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111025.jpg">
+  <figcaption>Fig.500 -  Cone.</figcaption>
+</pre>
+
+**64004_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111041.jpg">
+  <figcaption>Fig.501 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111101.jpg">
+  <figcaption>Fig.502 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111107.jpg">
+  <figcaption>Fig.503 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111112.jpg">
+  <figcaption>Fig.504 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_11124.jpg">
+  <figcaption>Fig.505 -  Cone.</figcaption>
+</pre>
+
+
+**Grade 5 - Quantity: 4**
+
+**65001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111142.jpg">
+  <figcaption>Fig.506 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111209.jpg">
+  <figcaption>Fig.507 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111152.jpg">
+  <figcaption>Fig.508 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111157.jpg">
+  <figcaption>Fig.509 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111204.jpg">
+  <figcaption>Fig.510 -  Cone.</figcaption>
+</pre>
+
+**65002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111232.jpg">
+  <figcaption>Fig.511 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111248.jpg">
+  <figcaption>Fig.512 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111254.jpg">
+  <figcaption>Fig.513 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111300.jpg">
+  <figcaption>Fig.514 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111306.jpg">
+  <figcaption>Fig.515 -  Cone.</figcaption>
+</pre>
+
+**65003_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111338.jpg">
+  <figcaption>Fig.516 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111352.jpg">
+  <figcaption>Fig.517 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111358.jpg">
+  <figcaption>Fig.518 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111403.jpg">
+  <figcaption>Fig.519 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111408.jpg">
+  <figcaption>Fig.520 -  Cone.</figcaption>
+</pre>
+
+**65004_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111435.jpg">
+  <figcaption>Fig.521 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111447.jpg">
+  <figcaption>Fig.522 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111453.jpg">
+  <figcaption>Fig.523 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111459.jpg">
+  <figcaption>Fig.524 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111505.jpg">
+  <figcaption>Fig.525 -  Cone.</figcaption>
+</pre>
+
+
+**Grade 6 - Quantity: 3**
+
+**66001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111537.jpg">
+  <figcaption>Fig.526 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111547.jpg">
+  <figcaption>Fig.527 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111553.jpg">
+  <figcaption>Fig.528 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111559.jpg">
+  <figcaption>Fig.529 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111604.jpg">
+  <figcaption>Fig.530 -  Cone.</figcaption>
+</pre>
+
+**66002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111633.jpg">
+  <figcaption>Fig.531 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111642.jpg">
+  <figcaption>Fig.532 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111649.jpg">
+  <figcaption>Fig.533 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111654.jpg">
+  <figcaption>Fig.534 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111701.jpg">
+  <figcaption>Fig.535 -  Cone.</figcaption>
+</pre>
+
+**66003_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111727.jpg">
+  <figcaption>Fig.536 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111733.jpg">
+  <figcaption>Fig.537 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111744.jpg">
+  <figcaption>Fig.538 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111749.jpg">
+  <figcaption>Fig.539 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111817.jpg">
+  <figcaption>Fig.540 -  Cone.</figcaption>
+</pre>
+
+
+**Grade 7 - Quantity: 2**
+
+**67001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111817.jpg">
+  <figcaption>Fig.541 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111832.jpg">
+  <figcaption>Fig.542 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111839.jpg">
+  <figcaption>Fig.543 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111846.jpg">
+  <figcaption>Fig.544 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111851.jpg">
+  <figcaption>Fig.545 -  Cone.</figcaption>
+</pre>
+
+**67002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_111917.jpg">
+  <figcaption>Fig.546 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111927.jpg">
+  <figcaption>Fig.547 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111933.jpg">
+  <figcaption>Fig.548 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111939.jpg">
+  <figcaption>Fig.549 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_111944.jpg">
+  <figcaption>Fig.550 -  Cone.</figcaption>
+</pre>
+
+**Grade 8 - Quantity: 3**
+
+**68001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_112011.jpg">
+  <figcaption>Fig.551 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112027.jpg">
+  <figcaption>Fig.552 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112033.jpg">
+  <figcaption>Fig.553 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112039.jpg">
+  <figcaption>Fig.554 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112045.jpg">
+  <figcaption>Fig.555 -  Cone.</figcaption>
+</pre>
+
+**68002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_112106.jpg">
+  <figcaption>Fig.556 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112114.jpg">
+  <figcaption>Fig.557 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112120.jpg">
+  <figcaption>Fig.558 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112125.jpg">
+  <figcaption>Fig.559 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112138.jpg">
+  <figcaption>Fig.560 -  Cone.</figcaption>
+</pre>
+
+**68003_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_112204.jpg">
+  <figcaption>Fig.561 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112212.jpg">
+  <figcaption>Fig.562 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112218.jpg">
+  <figcaption>Fig.563 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112226.jpg">
+  <figcaption>Fig.564 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112232.jpg">
+  <figcaption>Fig.565 -  Cone.</figcaption>
+</pre>
+
+**Grade 9 - Quantity: 2**
+
+**69001_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_112335.jpg">
+  <figcaption>Fig.566 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112344.jpg">
+  <figcaption>Fig.567 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112351.jpg">
+  <figcaption>Fig.568 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112356.jpg">
+  <figcaption>Fig.569 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112406.jpg">
+  <figcaption>Fig.570 -  Cone.</figcaption>
+</pre>
+
+**69002_Cones_28inch**
+<pre align="center">
+  <img src="./Images/IMG_20230711_112429.jpg">
+  <figcaption>Fig.570 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112435.jpg">
+  <figcaption>Fig.571 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112441.jpg">
+  <figcaption>Fig.572 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112448.jpg">
+  <figcaption>Fig.573 -  Cone.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_20230711_112454.jpg">
+  <figcaption>Fig.574 -  Cone.</figcaption>
+</pre>
+
 B) Vertical traffic panel - Quantity: 3
 
 **60004_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4232.png">
-  <figcaption>Fig.474 - Vertical traffic panel.</figcaption>
+  <figcaption>Fig.575 - Vertical traffic panel.</figcaption>
 </pre>
 
 **60005_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4234.png">
-  <figcaption>Fig.475 - Vertical traffic panel.</figcaption>
+  <figcaption>Fig.576 - Vertical traffic panel.</figcaption>
 </pre>
 
 **60006_VerticalTrafficPanel_36inch**
 <pre align="center">
   <img src="./Images/IMG_4233.png">
-  <figcaption>Fig.476 - Vertical traffic panel.</figcaption>
+  <figcaption>Fig.577 - Vertical traffic panel.</figcaption>
 </pre>
 
 C) Single Spring Stand With Steel Legs - Quantity: 3
@@ -2698,19 +3189,19 @@ C) Single Spring Stand With Steel Legs - Quantity: 3
 **60007_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4240.png">
-  <figcaption>Fig.477 - Single Spring Stand With Steel Legs.</figcaption>
+  <figcaption>Fig.578 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 **60008_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4239.png">
-  <figcaption>Fig.478 - Single Spring Stand With Steel Legs.</figcaption>
+  <figcaption>Fig.579 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 **60009_SingleSpringStandWithSteelLegs**
 <pre align="center">
   <img src="./Images/IMG_4238.png">
-  <figcaption>Fig.479 - Single Spring Stand With Steel Legs.</figcaption>
+  <figcaption>Fig.580 - Single Spring Stand With Steel Legs.</figcaption>
 </pre>
 
 D) XLarge Safety Vest - Quantity: 3
@@ -2718,19 +3209,19 @@ D) XLarge Safety Vest - Quantity: 3
 **60010_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4228.png">
-  <figcaption>Fig.480 - XLarge Safety Vest.</figcaption>
+  <figcaption>Fig.581 - XLarge Safety Vest.</figcaption>
 </pre>
 
 **60011_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4221.png">
-  <figcaption>Fig.481 - XLarge Safety Vest.</figcaption>
+  <figcaption>Fig.582 - XLarge Safety Vest.</figcaption>
 </pre>
 
 **60012_XLarge_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4227.png">
-  <figcaption>Fig.482 - XLarge Safety Vest.</figcaption>
+  <figcaption>Fig.583 - XLarge Safety Vest.</figcaption>
 </pre>
 
 E) Large Safety Vest - Quantity: 2
@@ -2738,13 +3229,13 @@ E) Large Safety Vest - Quantity: 2
 **60013_Large_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4223.png">
-  <figcaption>Fig.483 - Large Safety Vest.</figcaption>
+  <figcaption>Fig.584 - Large Safety Vest.</figcaption>
 </pre>
 
 **60014_Large_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4225.png">
-  <figcaption>Fig.484 - Large Safety Vest.</figcaption>
+  <figcaption>Fig.585 - Large Safety Vest.</figcaption>
 </pre>
 
 F) Regular Safety Vest - Quantity: 1
@@ -2752,13 +3243,13 @@ F) Regular Safety Vest - Quantity: 1
 **60015_Regular_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4224.png">
-  <figcaption>Fig.485 - Regular Safety Vest.</figcaption>
+  <figcaption>Fig.586 - Regular Safety Vest.</figcaption>
 </pre>
 
 **60016_Regular_SafetyVest**
 <pre align="center">
   <img src="./Images/IMG_4226.png">
-  <figcaption>Fig.486 - Regular Safety Vest.</figcaption>
+  <figcaption>Fig.587 - Regular Safety Vest.</figcaption>
 </pre>
 
 G) Safety Vest Class 3 Level 2 - Quantity: 1
@@ -2769,19 +3260,19 @@ G) Safety Vest Class 3 Level 2 - Quantity: 1
 
 <pre align="center">
   <img src="./Images/IMG_4222.png">
-  <figcaption>Fig.487 - Safety Vest Class 3 Level 2.</figcaption>
+  <figcaption>Fig.588 - Safety Vest Class 3 Level 2.</figcaption>
 </pre>
 
 ### **7) Boxes/Shipments**
 
 <pre align="center">
   <img src="./Images/IMG_4220.png">
-  <figcaption>Fig.488 - Shipment.</figcaption>
+  <figcaption>Fig.589 - Shipment.</figcaption>
 </pre>
 
 <pre align="center">
   <img src="./Images/IMG_4219.png">
-  <figcaption>Fig.489 - Shipment.</figcaption>
+  <figcaption>Fig.590 - Shipment.</figcaption>
 </pre>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
