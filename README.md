@@ -3269,158 +3269,152 @@ H) Telescoping Sign Stands - Quantity: 25
 
 **60018_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165322.jpg">
   <figcaption>Fig.664 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60019_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165340.jpg">
   <figcaption>Fig.665 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60020_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165349.jpg">
   <figcaption>Fig.666 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60021_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165355.jpg">
   <figcaption>Fig.667 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60022_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165400.jpg">
   <figcaption>Fig.668 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60023_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165808.jpg">
   <figcaption>Fig.664 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60024_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165814.jpg">
   <figcaption>Fig.669 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60025_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165824.jpg">
   <figcaption>Fig.670 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60026_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165832.jpg">
   <figcaption>Fig.671 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60027_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_165848.jpg">
   <figcaption>Fig.672 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60028_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_170358.jpg">
   <figcaption>Fig.673 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60029_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_170451.jpg">
   <figcaption>Fig.674 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60030_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230831_170521.jpg">
   <figcaption>Fig.675 - Telescoping Sign Stand.</figcaption>
-</pre>
-
-**60030_TelescopingSignStand**
-<pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.676 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60031_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.677 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_170529.jpg">
+  <figcaption>Fig.676 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60032_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.678 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_170543.jpg">
+  <figcaption>Fig.677 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60033_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.679 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171006.jpg">
+  <figcaption>Fig.678 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60034_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.680 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171011.jpg">
+  <figcaption>Fig.679 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60035_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.681 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171016.jpg">
+  <figcaption>Fig.680 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60036_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.682 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171022.jpg">
+  <figcaption>Fig.681 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60037_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.683 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171049.jpg">
+  <figcaption>Fig.682 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60038_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.684 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171057.jpg">
+  <figcaption>Fig.683 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60039_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.685 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171340.jpg">
+  <figcaption>Fig.684 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60040_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.686 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171345.jpg">
+  <figcaption>Fig.685 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60041_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.687 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171353.jpg">
+  <figcaption>Fig.686 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 **60042_TelescopingSignStand**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
-  <figcaption>Fig.688 - Telescoping Sign Stand.</figcaption>
+  <img src="./Images/IMG_20230831_171359.jpg">
+  <figcaption>Fig.687 - Telescoping Sign Stand.</figcaption>
 </pre>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
@@ -3434,439 +3428,439 @@ A) Barrels 45 inch - Quantity: 73
 
 **70001_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_184423.jpg">
   <figcaption>Fig.591 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70002_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_184438.jpg">
   <figcaption>Fig.592 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70003_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_184458.jpg">
   <figcaption>Fig.593 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70004_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_184508.jpg">
   <figcaption>Fig.594 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70005_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_184519.jpg">
   <figcaption>Fig.595 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70006_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185729.jpg">
   <figcaption>Fig.596 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70007_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185739.jpg">
   <figcaption>Fig.597 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70008_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185751.jpg">
   <figcaption>Fig.598 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70009_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185802.jpg">
   <figcaption>Fig.599 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70010_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185817.jpg">
   <figcaption>Fig.600 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70011_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_185827.jpg">
   <figcaption>Fig.601 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70012_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190620.jpg">
   <figcaption>Fig.602 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70013_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190634.jpg">
   <figcaption>Fig.603 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70014_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190643.jpg">
   <figcaption>Fig.604 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70015_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190655.jpg">
   <figcaption>Fig.605 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70016_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190713.jpg">
   <figcaption>Fig.606 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70017_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_190721.jpg">
   <figcaption>Fig.607 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70018_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191535.jpg">
   <figcaption>Fig.608 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70019_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191547.jpg">
   <figcaption>Fig.609 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70020_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191609.jpg">
   <figcaption>Fig.610 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70021_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191618.jpg">
   <figcaption>Fig.611 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70022_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191629.jpg">
   <figcaption>Fig.612 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70023_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_191639.jpg">
   <figcaption>Fig.613 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70024_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192523.jpg">
   <figcaption>Fig.614 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70025_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192531.jpg">
   <figcaption>Fig.615 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70026_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192539.jpg">
   <figcaption>Fig.616 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70027_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192559.jpg">
   <figcaption>Fig.617 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70028_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192612.jpg">
   <figcaption>Fig.618 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70029_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_192622.jpg">
   <figcaption>Fig.619 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70030_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193440.jpg">
   <figcaption>Fig.620 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70031_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193449.jpg">
   <figcaption>Fig.621 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70032_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193516.jpg">
   <figcaption>Fig.622 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70033_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193525.jpg">
   <figcaption>Fig.623 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70034_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193547.jpg">
   <figcaption>Fig.624 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70035_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230801_193556.jpg">
   <figcaption>Fig.625 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70036_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_140131.jpg">
   <figcaption>Fig.626 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70037_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_140144.jpg">
   <figcaption>Fig.627 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70038_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_140937.jpg">
   <figcaption>Fig.628 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70039_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_140945.jpg">
   <figcaption>Fig.629 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70040_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_140951.jpg">
   <figcaption>Fig.630 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70041_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_141006.jpg">
   <figcaption>Fig.631 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70042_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_20230802_141016.jpg">
   <figcaption>Fig.632 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70043_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.633 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70044_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.634 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70045_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.635 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70046_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.636 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70047_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.637 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70048_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.638 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70049_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.639 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70050_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.640 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70051_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.641 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70052_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.642 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70053_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.643 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70054_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.644 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70055_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.645 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70056_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.646 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70057_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.647 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70058_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.648 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70059_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.649 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70060_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.650 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70061_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.651 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70062_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.652 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70063_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.653 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70064_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.654 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70065_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.655 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70066_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.656 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70067_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.657 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70068_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.658 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70069_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.659 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70070_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.660 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70071_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.661 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70072_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.662 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70073_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4.png">
+  <img src="./Images/IMG_4">
   <figcaption>Fig.663 - Barrel - 45 inch.</figcaption>
 </pre>
 
