@@ -66,7 +66,7 @@ The following are the top level directories within the repository:
 
 ## Inventory 
 
-**Total Figures - 688**
+**Total Figures - 716**
 
 ### **1) White**
 A) "Speed Limit 45" signs - Quantity: 3
@@ -3424,6 +3424,33 @@ H) Telescoping Sign Stands - Quantity: 25
 
 ### **7) Barrels**
 
+**Barrels - View**
+
+**Front View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_140416.jpg">
+  <figcaption>Fig.693 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Rear View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_140424.jpg">
+  <figcaption>Fig.694 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Left Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_140444.jpg">
+  <figcaption>Fig.695 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Right Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_140451.jpg">
+  <figcaption>Fig.696 - Barrel - 45 inch.</figcaption>
+</pre>
+
+
 A) Barrels 45 inch - Quantity: 73
 
 **70001_Barrels_45inch**
@@ -3680,187 +3707,267 @@ A) Barrels 45 inch - Quantity: 73
 
 **70043_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141610.jpg">
   <figcaption>Fig.633 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70044_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141623.jpg">
   <figcaption>Fig.634 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70045_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141633.jpg">
   <figcaption>Fig.635 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70046_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141645.jpg">
   <figcaption>Fig.636 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70047_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141656.jpg">
   <figcaption>Fig.637 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70048_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141711.jpg">
   <figcaption>Fig.638 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70049_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141730.jpg">
   <figcaption>Fig.639 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70050_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141735.jpg">
   <figcaption>Fig.640 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70051_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141741.jpg">
   <figcaption>Fig.641 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70052_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141748.jpg">
   <figcaption>Fig.642 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70053_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141851.jpg">
   <figcaption>Fig.643 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70054_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141904.jpg">
   <figcaption>Fig.644 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70055_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141929.jpg">
   <figcaption>Fig.645 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70056_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141935.jpg">
   <figcaption>Fig.646 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70057_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141941.jpg">
   <figcaption>Fig.647 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70058_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141947.jpg">
   <figcaption>Fig.648 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70059_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_141953.jpg">
   <figcaption>Fig.649 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70060_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_142033.jpg">
   <figcaption>Fig.650 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70061_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_142050.jpg">
   <figcaption>Fig.651 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70062_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_142056.jpg">
   <figcaption>Fig.652 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Barrels - No Stickers**
+
+**Front View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_143258.jpg">
+  <figcaption>Fig.689 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Rear View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_143305.jpg">
+  <figcaption>Fig.690 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Left Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_143320.jpg">
+  <figcaption>Fig.691 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Right Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_143314.jpg">
+  <figcaption>Fig.692 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70063_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144134.jpg">
   <figcaption>Fig.653 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70064_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144202.jpg">
   <figcaption>Fig.654 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70065_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144211.jpg">
   <figcaption>Fig.655 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70066_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144227.jpg">
   <figcaption>Fig.656 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70067_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144238.jpg">
   <figcaption>Fig.657 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70068_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144246.jpg">
   <figcaption>Fig.658 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70069_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144257.jpg">
   <figcaption>Fig.659 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70070_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144303.jpg">
   <figcaption>Fig.660 - Barrel - 45 inch.</figcaption>
 </pre>
 
 **70071_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144343.jpg">
   <figcaption>Fig.661 - Barrel - 45 inch.</figcaption>
 </pre>
 
+**Barrel - Not Perfect Sticker**
+
+**Front View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144725.jpg">
+  <figcaption>Fig.697 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Rear View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144732.jpg">
+  <figcaption>Fig.698 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Left Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144738.jpg">
+  <figcaption>Fig.699 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Right Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144745.jpg">
+  <figcaption>Fig.700 - Barrel - 45 inch.</figcaption>
+</pre>
+
+
 **70072_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_144859.jpg">
   <figcaption>Fig.662 - Barrel - 45 inch.</figcaption>
 </pre>
 
+**Barrel - Not Perfect Sticker**
+
+**Front View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144929.jpg">
+  <figcaption>Fig.701 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Rear View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144936.jpg">
+  <figcaption>Fig.702 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Left Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144942.jpg">
+  <figcaption>Fig.703 - Barrel - 45 inch.</figcaption>
+</pre>
+
+**Right Side View**
+<pre align="center">
+  <img src="./Images/IMG_20230831_144949.jpg">
+  <figcaption>Fig.704 - Barrel - 45 inch.</figcaption>
+</pre>
+
+
 **70073_Barrels_45inch**
 <pre align="center">
-  <img src="./Images/IMG_4">
+  <img src="./Images/IMG_20230831_145108.jpg">
   <figcaption>Fig.663 - Barrel - 45 inch.</figcaption>
 </pre>
 
@@ -3868,7 +3975,7 @@ A) Barrels 45 inch - Quantity: 73
 
 ***
 
-### **9) Boxes/Shipments**
+### **9) Boxes/Shipments/Tapes**
 
 <pre align="center">
   <img src="./Images/IMG_4220.png">
@@ -3879,6 +3986,83 @@ A) Barrels 45 inch - Quantity: 73
   <img src="./Images/IMG_4219.png">
   <figcaption>Fig.590 - Shipment.</figcaption>
 </pre>
+
+**4” x 120 yds Yellow Tape - Quantity: 1**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145741.jpg">
+  <figcaption>Fig.705 - Yellow Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145750.jpg">
+  <figcaption>Fig.706 - Yellow Tape.</figcaption>
+</pre>
+
+**4” x 120 yds White Tape - Quantity: 1**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145828.jpg">
+  <figcaption>Fig.707 - White Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145835.jpg">
+  <figcaption>Fig.708 - White Tape.</figcaption>
+</pre>
+
+
+**6” x 120 yds White Tape - Quantity: 1**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145531.jpg">
+  <figcaption>Fig.709 - White Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145537.jpg">
+  <figcaption>Fig.710 - White Tape.</figcaption>
+</pre>
+
+
+**6” x 120 yds Black Tape - Quantity: 15**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145228.jpg">
+  <figcaption>Fig.711 - Black Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145232.jpg">
+  <figcaption>Fig.712 - Black Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145305.jpg">
+  <figcaption>Fig.713 - Black Tape.</figcaption>
+</pre>
+
+
+**8” x 50 yds White Tape - Quantity: 1**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145344.jpg">
+  <figcaption>Fig.714 - White Tape.</figcaption>
+</pre>
+
+
+**8” x 50 yds Black Tape - Quantity: 23**
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145400.jpg">
+  <figcaption>Fig.715 - Black Tape.</figcaption>
+</pre>
+
+<pre align="center">
+  <img src="./Images/IMG_20230831_145502.jpg">
+  <figcaption>Fig.716 - Black Tape.</figcaption>
+</pre>
+
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
