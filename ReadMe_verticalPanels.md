@@ -34,7 +34,15 @@ Search for this, and you will find!
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#directories">Directories</li>
-    <li><a href="#inventory">Inventory</li>
+    <li><a href="#inventory-vertical-panels">Inventory: Vertical Panels</li>
+    <ul>
+    <li><a href="#1-vertical-traffic-panel---quantity-3">1) Vertical traffic panel - Quantity: 3</a></li>
+    <ul>
+    <li><a href="#60004_verticaltrafficpanel_36inch">60004_VerticalTrafficPanel_36inch</a></li>
+    <li><a href="#60005_verticaltrafficpanel_36inch">60005_VerticalTrafficPanel_36inch</a></li>
+    <li><a href="#60006_verticaltrafficpanel_36inch">60006_VerticalTrafficPanel_36inch</a></li>
+    </ul>
+    </ul>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -75,15 +83,40 @@ The following are the top level directories within the repository:
 
 ***
 
-## Inventory
+## Inventory: Vertical Panels
 
-#### White Signs
+### 1) Vertical traffic panel - Quantity: 3
 
-#### 
+#### 60004_VerticalTrafficPanel_36inch
+
+<pre align="center">
+  <img src="./Images/IMG_4232.png">
+  <figcaption>Fig.575 - Vertical traffic panel.</figcaption>
+</pre>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
-
 ***
+
+#### 60005_VerticalTrafficPanel_36inch
+
+<pre align="center">
+  <img src="./Images/IMG_4234.png">
+  <figcaption>Fig.576 - Vertical traffic panel.</figcaption>
+</pre>
+
+<a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
+***
+
+#### 60006_VerticalTrafficPanel_36inch
+
+<pre align="center">
+  <img src="./Images/IMG_4233.png">
+  <figcaption>Fig.577 - Vertical traffic panel.</figcaption>
+</pre>
+
+<a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
+***
+
 
 <!-- LICENSE -->
 ## License
@@ -91,8 +124,6 @@ The following are the top level directories within the repository:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
-
-
 ***
 
 

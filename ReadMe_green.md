@@ -34,7 +34,13 @@ Search for this, and you will find!
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#directories">Directories</li>
-    <li><a href="#inventory">Inventory</li>
+    <li><a href="#inventory-green-signs">Inventory: Green Signs</li>
+    <ul>
+    <li><a href="#1-right-corner-arrow-sign---quantity-1">  1) Right Corner Arrow sign - Quantity: 1</a></li>
+    <ul>
+    <li><a href="#50001_rightcornerarrow_-exit-_">50001_RightCornerArrow_-EXIT-_</a></li>
+    </ul>
+    </ul>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -75,15 +81,32 @@ The following are the top level directories within the repository:
 
 ***
 
-## Inventory
+## Inventory: Green Signs
 
-#### White Signs
+### 1) Right Corner Arrow sign - Quantity: 1
 
-#### 
+#### 50001_RightCornerArrow_-EXIT-_
+
+<pre align="center">
+  <img src="./Images/IMG_4054.png">
+  <figcaption>Fig.467 - Right Corner Arrow sign.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_4053.png">
+  <figcaption>Fig.468 - Right Corner Arrow sign.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_4052.png">
+  <figcaption>Fig.469 - Right Corner Arrow sign.</figcaption>
+</pre>
+<pre align="center">
+  <img src="./Images/IMG_4051.png">
+  <figcaption>Fig.470 - Right Corner Arrow sign.</figcaption>
+</pre>
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
-
 ***
+
 
 <!-- LICENSE -->
 ## License
@@ -91,8 +114,6 @@ The following are the top level directories within the repository:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
-
-
 ***
 
 

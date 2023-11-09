@@ -77,9 +77,8 @@ The following are the top level directories within the repository:
 
 ## Inventory
 
-#### White Signs
 
-#### 
+
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
