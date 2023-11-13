@@ -79,7 +79,7 @@ This is the main ReadMe.md file that incorporates the details of all the equipme
 
 The following are the top level directories within the repository:
 <ul>
- <li>Documents: Explains the naming method for equipment. This folder also contains the ReadMe files of all the equipment.</li>
+ <li>Documents: Explains the naming method for equipment.</li>
  <li>Images folder: Contains images used in the README file.</li>
 </ul>
 
