@@ -131,7 +131,7 @@ The inventory of the all green road signs can be found here: [ReadMe_green](http
 
 ### Barrels
 
-The inventory of the all barrels can be found here: [ReadMe_barrels](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_green.md)
+The inventory of the all barrels can be found here: [ReadMe_barrels](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_barrels.md)
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
@@ -139,7 +139,7 @@ The inventory of the all barrels can be found here: [ReadMe_barrels](https://git
 
 ### Cones
 
-The inventory of the all cones can be found here: [ReadMe_cones](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_green.md)
+The inventory of the all cones can be found here: [ReadMe_cones](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_cones.md)
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
@@ -147,7 +147,7 @@ The inventory of the all cones can be found here: [ReadMe_cones](https://github.
 
 ### Vertical Panels
 
-The inventory of the all cones can be found here: [ReadMe_verticalPanels](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_green.md)
+The inventory of the all cones can be found here: [ReadMe_verticalPanels](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_verticalPanels.md)
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
@@ -155,7 +155,7 @@ The inventory of the all cones can be found here: [ReadMe_verticalPanels](https:
 
 ### Sign Stands
 
-The inventory of the all cones can be found here: [ReadMe_signStands](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_green.md)
+The inventory of the all cones can be found here: [ReadMe_signStands](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_signStands.md)
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
@@ -163,7 +163,7 @@ The inventory of the all cones can be found here: [ReadMe_signStands](https://gi
 
 ### Miscellaneous
 
-The inventory of the all cones can be found here: [ReadMe_misc](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_green.md)
+The inventory of the all cones can be found here: [ReadMe_misc](https://github.com/ivsg-psu/Hardware_WorkZones_PennsylvaniaADSEquipmentInventory/blob/main/ReadMe_misc.md)
 
 <a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
 
