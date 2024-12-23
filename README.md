@@ -169,6 +169,22 @@ The inventory of the all cones can be found here: [ReadMe_misc](https://github.c
 
 ***
 
+### Publications
+
+The list of publications can be found here:
+
+
+| Title                                              | Conference/Journal         | Author(s)               | Type         | Link                      |
+|----------------------------------------------------|----------------------------|-------------------------|--------------|---------------------------|
+| Merging Multi-antenna GPS Data for Vehicle Pose Estimation | Road Safety and Simulation Conference 2024   | Xinyu Cao, Sean Brennan    | Conference| [Paper](https://pennstateoffice365.sharepoint.com/:f:/r/sites/IntelligentVehiclesandSystemsGroup-Active/Shared%20Documents/IVSG/Publications/2024_Publications/Cao_RSS_Merging_Multi-antenna_GPS_Data_for_VehiclePoseEstimation?csf=1&web=1&e=lemmmP) |
+| Extrinsic Calibration of 3D LiDARUsing Sphere Targets and Target-Centered GPS     | Road Safety and Simulation Conference 2024 | Xinyu Cao, Sean Brennan  | Conference | [Poster](https://pennstateoffice365.sharepoint.com/:p:/r/sites/IntelligentVehiclesandSystemsGroup-Active/Shared%20Documents/IVSG/Publications/2024_Publications/Cao_RSS_Extrinsic%20Calibration%20of%203D%20LiDARUsing%20Sphere%20Targets%20and%20Target-Centered%20GPS/RSS_LiDAR_Calibration.pptx?d=we4506a26ba6746828718d4a5748c3cda&csf=1&web=1&e=DRRpJD) |
+| Evaluation of Autonomous Vehicle Speed Consistency Compared to Human-driven Vehicles in Work Zones | Automated Road Transportation Symposium  2024| Lin Lyu, Wushuang Bai, Sean Brennan | Conference      | [Poster](https://pennstateoffice365.sharepoint.com/:b:/r/sites/IntelligentVehiclesandSystemsGroup-Active/Shared%20Documents/IVSG/Publications/2024_Publications/Lyu_ARTS_Poster/arts_AV_consistency.pdf?csf=1&web=1&e=mG60eR) |
+| A Comparative Analysis of the Effects of Work Zone Lane Marking Materials and Marker-Painting Methods on LiDAR Point Cloud Measurements | Automated Road Transportation Symposium 2024 |  Xinyu Cao, Sean Brennan       | Conference     | [Poster](https://pennstateoffice365.sharepoint.com/:b:/r/sites/IntelligentVehiclesandSystemsGroup-Active/Shared%20Documents/IVSG/Publications/2024_Publications/Cao_ARTS_A%20Comparative%20Analysis%20of%20Lane%20Marking/ARTS_LaneMarker_Comparison.pdf?csf=1&web=1&e=PhMYtt) |
+
+
+<a href="#hardware_workzones_pennsylvaniaadsequipmentinventory">Back to top</a>
+
+
 <!-- LICENSE -->
 ## License
 
